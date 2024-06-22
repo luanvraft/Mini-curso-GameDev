@@ -1,6 +1,6 @@
 # Minicurso-GameDev
 
-Intalação da Godot Engine /n
+Intalação da Godot Engine /b
 Acesse https://godotengine.org/
 
 Escolha o sistema operacional e baixe!
