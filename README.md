@@ -1,1 +1,1 @@
-# Mini-curso-GameDev
+# Minicurso-GameDev
