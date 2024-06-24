@@ -5,7 +5,7 @@
 ## Intalação da Godot Engine
 
 Acesse [o site oficial](https://godotengine.org/)
-<p>Clique em "Download Latest" para chegar nas opções de download<br>
+<p>Clique em "Download Latest" para chegar nas opções de download, neste minicurso vamos usar a godot 4.2<br>
   
 (Normalmente, o site te manda direto pro download da versão do teu sistema operacional.<br>
 Caso você queira baixar pra outra versão, ao final da aba de download tem outras opções de plataforma)<br>
